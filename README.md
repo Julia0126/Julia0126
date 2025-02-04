@@ -6,7 +6,7 @@
 
 ## 👋 Oi, eu sou a Júlia!
 
-Sou desenvolvedora fullstack formada em Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e inovação. Tenho experiência em desenvolvimento backend com Java, Spring Boot e MySQL, além de habilidades em frontend com React. Meu foco é criar soluções que façam a diferença, especialmente em projetos que promovem impacto social. Atualmente, estou me especializando em APIs e análise de dados com Python.
+Sou desenvolvedora fullstack formada em Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e inovação. Tenho experiência em desenvolvimento backend com Java, Spring Boot e MySQL, além de habilidades em frontend com React. Meu foco é criar soluções que façam a diferença, especialmente em projetos que promovem impacto social. Anteriormente, fiz um curso de análise de dados com Python e atualmente estou estudando AWS FUNDAMENTOS + IA para obter minha certificação de AWS Cloud Practitioner.
 
 #
 
