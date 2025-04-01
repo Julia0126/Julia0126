@@ -43,6 +43,12 @@ Sou desenvolvedora fullstack formada em Análise e Desenvolvimento de Sistemas, 
 
 #
 
+<h3 align="left">My Badges ~</h3>
+
+  <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="100" alt="AWS Badge"  />
+  <img width="90" />
+
+#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Julia0126/Julia0126/output/github-contribution-grid-snake-dark.svg">
