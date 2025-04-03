@@ -45,9 +45,10 @@ Sou desenvolvedora fullstack formada em Análise e Desenvolvimento de Sistemas, 
 
 <h3 align="left">My Badges ~</h3>
 
-  <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="100" alt="AWS Badge"  />
-  <img width="90" />
-
+<a href="https://www.credly.com/badges/377e9f88-843b-4c47-a15e-3bdd992b7f7d/linked_in?t=su0mbn" target="_blank" rel="noopener noreferrer">
+    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="100" alt="AWS Badge" />
+</a>
+<img width="90" />
 #
 
 <picture align="center">
