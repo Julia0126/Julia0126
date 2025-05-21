@@ -49,7 +49,20 @@ Sou desenvolvedora fullstack formada em Análise e Desenvolvimento de Sistemas, 
     <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="100" alt="AWS Badge" />
 </a>
 <img width="90" />
+
 #
+
+## Github Stats
+
+<table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Julia0126&theme=codeSTACKr" alt="Julia0126's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Julia0126&theme=codeSTACKr&utcOffset=-3" alt="Julia0126's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Julia0126&theme=codeSTACKr" alt="Julia0126's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Julia0126&theme=codeSTACKr" alt="Julia0126's GitHub Stats"/></td>
+    </tr>
+</table>
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Julia0126/Julia0126/output/github-contribution-grid-snake-dark.svg">
