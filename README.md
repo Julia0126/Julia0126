@@ -6,8 +6,9 @@
 
 ## 👋 Oi, eu sou a Júlia!
 
-Sou desenvolvedora fullstack formada em Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e inovação. Tenho experiência em desenvolvimento backend com Java, Spring Boot e MySQL, além de habilidades em frontend com React. Meu foco é criar soluções que façam a diferença, especialmente em projetos que promovem impacto social. Anteriormente, fiz um curso de análise de dados com Python e atualmente estou estudando AWS FUNDAMENTOS + IA para obter minha certificação de AWS Cloud Practitioner.
-
+Engenheira de Dados apaixonada por transformar dados em decisões.
+Trabalho com Spark, PySpark e SQL construindo pipelines e soluções em ambientes Big Data, atuando no setor financeiro com foco em qualidade, governança e impacto real nos dados.
+Certificada em AWS, explorando o universo de Cloud e Inteligência Artificial enquanto compartilho minha jornada na tecnologia 🚀
 #
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
